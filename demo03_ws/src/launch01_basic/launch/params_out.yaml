@@ -1,0 +1,23 @@
+bg_B: 255
+bg_G: 50
+bg_R: 100
+param_A: 100
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_lhh_virtualbox__35237: http://lhh-VirtualBox:35237/
+    host_lhh_virtualbox__42071: http://lhh-VirtualBox:42071/
+rosversion: '1.17.4
+
+  '
+run_id: 397b5cc4-93f8-11f1-a81c-8523af918046
+turtle1:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+  bg_B: 255
+  bg_G: 50
+  bg_R: 100
+  param_B: 3.14
